@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Apresentação CSS Grid</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Apresentação CSS Grid</h1>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="#sessao1">Introdução</a></li>
+      <li><a href="#sessao2">Conceitos Fundamentais</a></li>
+      <li><a href="#sessao3">Posicionamento de Elementos</a></li>
+      <li><a href="#sessao4">Alinhamento e Espaçamento</a></li>
+      <li><a href="#sessao5">Grids Aninhados e Áreas Nomeadas</a></li>
+      <li><a href="#sessao6">Responsividade e Media Queries</a></li>
+      <li><a href="#sessao7">Propriedades</a></li>
+      <li><a href="#sessao8">Exemplos de Uso</a></li>
+    </ul>
+  </nav>
+  <main>
+    <section id="sessao1">
+      <h2>Sessão 1: Introdução ao CSS Grid</h2>
+      <!-- Conteúdo da sessão 1 -->
+    </section>
+    <section id="sessao2">
+      <h2>Sessão 2: Conceitos Fundamentais</h2>
+      <!-- Conteúdo da sessão 2 -->
+    </section>
+    <!-- E assim por diante... -->
+  </main>
+  <footer>
+    <p>&copy; 2023 Meu Site</p>
+  </footer>
+</body>
+</html>
